@@ -8,7 +8,7 @@ const Wrapper = styled.div`
 const ChatRoom: React.FC = () => {
   return (
     <Wrapper>
-      <div>ChatRoom</div>
+      <div>chatroom</div>
     </Wrapper>
   );
 };
